@@ -1,4 +1,4 @@
-# khaos-es6
+# khaos
 
 A Khaos template to start new redux effects library quickly.
 
