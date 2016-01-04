@@ -1,13 +1,13 @@
 {
-  "name": "@{{repository}}",
+  "name": "{{basename}}",
   "description": "{{description}}",
-  "repository": "git://github.com/{{repository}}.git",
-  "version": "0.1.0",{{#mit}}
-  "license": "MIT",{{/mit}}
+  "repository": "git://github.com/redux-effects/{{basename}}.git",
+  "version": "0.1.0",
+  "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "make build",
-    "postpublish": "make clean"
+    "postpublish": "make clean",
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
   "dependencies": {},
