@@ -31,4 +31,4 @@ all: validate test
 # Phony
 #
 
-.PHONY: test validate clean build
+.PHONY: test validate clean build all
