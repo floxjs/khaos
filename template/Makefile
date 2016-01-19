@@ -27,8 +27,16 @@ build: clean
 
 all: validate test
 
+init:
+	@git init
+	@git add .
+	@git commit -am "FIRST"
+	@hub create joshrtay/{{basename}} -d {{description}}
+	@travis enable
+	@git push -u origin master
+
 #
 # Phony
 #
 
-.PHONY: test validate clean build all
+.PHONY: test validate clean build all init

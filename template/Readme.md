@@ -31,10 +31,10 @@ var {{camelcase basename}} = require('{{basename}}')
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/redux-effects/{{basename}}.svg?style=flat-square
-[travis-url]: https://travis-ci.org/redux-effects/{{basename}}
-[git-image]: https://img.shields.io/github/tag/redux-effects/{{basename}}.svg
-[git-url]: https://github.com/redux-effects/{{basename}}
+[travis-image]: https://img.shields.io/travis/joshrtay/{{basename}}.svg?style=flat-square
+[travis-url]: https://travis-ci.org/joshrtay/{{basename}}
+[git-image]: https://img.shields.io/github/tag/joshrtay/{{basename}}.svg
+[git-url]: https://github.com/joshrtay/{{basename}}
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
 [npm-image]: https://img.shields.io/npm/v/{{basename}}.svg?style=flat-square

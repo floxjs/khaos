@@ -1,7 +1,7 @@
 {
   "name": "{{basename}}",
   "description": "{{description}}",
-  "repository": "git://github.com/redux-effects/{{basename}}.git",
+  "repository": "git://github.com/joshrtay/{{basename}}.git",
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
