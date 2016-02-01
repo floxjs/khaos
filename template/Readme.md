@@ -10,12 +10,12 @@
 
 ## Installation
 
-    $ npm install {{basename}}
+    $ npm install mu-{{basename}}
 
 ## Usage
 
 ```js
-var {{camelcase basename}} = require('{{basename}}')
+import {{camelcase basename}} from 'mu-{{basename}}'
 
 ```
 
@@ -31,10 +31,10 @@ var {{camelcase basename}} = require('{{basename}}')
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/joshrtay/{{basename}}.svg?style=flat-square
-[travis-url]: https://travis-ci.org/joshrtay/{{basename}}
-[git-image]: https://img.shields.io/github/tag/joshrtay/{{basename}}.svg
-[git-url]: https://github.com/joshrtay/{{basename}}
+[travis-image]: https://img.shields.io/travis/mu-js/{{basename}}.svg?style=flat-square
+[travis-url]: https://travis-ci.org/mu-js/{{basename}}
+[git-image]: https://img.shields.io/github/tag/mu-js/{{basename}}.svg
+[git-url]: https://github.com/mu-js/{{basename}}
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
 [npm-image]: https://img.shields.io/npm/v/{{basename}}.svg?style=flat-square

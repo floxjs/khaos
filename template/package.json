@@ -1,7 +1,7 @@
 {
-  "name": "{{basename}}",
+  "name": "mu-{{basename}}",
   "description": "{{description}}",
-  "repository": "git://github.com/joshrtay/{{basename}}.git",
+  "repository": "git://github.com/mu-js/{{basename}}.git",
   "version": "0.1.0",
   "license": "MIT",
   "main": "lib/index.js",
