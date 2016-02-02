@@ -14,7 +14,7 @@ node_modules: package.json
 	@touch node_modules
 
 test: node_modules
-	@${BIN}/tape -r babel-register test/*
+	@${BIN}/tape -r babel-register -r babel-polyfill test/*
 
 validate: node_modules
 	@standard
