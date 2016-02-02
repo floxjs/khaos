@@ -6,6 +6,10 @@
  * {{basename}}
  */
 
+function {{camelcase basename}} () {
+  
+}
+
 /**
  * Exports
  */

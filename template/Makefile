@@ -31,7 +31,7 @@ init:
 	@git init
 	@git add .
 	@git commit -am "FIRST"
-	@hub create mu-js/{{basename}} -d "{{description}}"
+	@hub create koaxjs/{{basename}} -d "{{description}}"
 	@travis enable
 	@git push -u origin master
 

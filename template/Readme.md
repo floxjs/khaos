@@ -10,12 +10,12 @@
 
 ## Installation
 
-    $ npm install mu-{{basename}}
+    $ npm install @koax/{{basename}}
 
 ## Usage
 
 ```js
-import {{camelcase basename}} from 'mu-{{basename}}'
+import {{camelcase basename}} from '@koax/{{basename}}'
 
 ```
 
@@ -31,11 +31,11 @@ import {{camelcase basename}} from 'mu-{{basename}}'
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/mu-js/{{basename}}.svg?style=flat-square
-[travis-url]: https://travis-ci.org/mu-js/{{basename}}
-[git-image]: https://img.shields.io/github/tag/mu-js/{{basename}}.svg
-[git-url]: https://github.com/mu-js/{{basename}}
+[travis-image]: https://img.shields.io/travis/koaxjs/{{basename}}.svg?style=flat-square
+[travis-url]: https://travis-ci.org/koaxjs/{{basename}}
+[git-image]: https://img.shields.io/github/tag/koaxjs/{{basename}}.svg
+[git-url]: https://github.com/koaxjs/{{basename}}
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/{{basename}}.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/{{basename}}
+[npm-image]: https://img.shields.io/npm/v/@koax/{{basename}}.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@koax/{{basename}}
