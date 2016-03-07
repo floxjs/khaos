@@ -1,14 +1,14 @@
 # khaos
 
-A Khaos template to start new redux effects library quickly.
+A Khaos template to start new flox library quickly.
 
 ## Installation
 
-`$ khaos install koaxjs/khaos koax`
+`$ khaos install floxjs/khaos flox`
 
 ## Usage
 
-`$ khaos koax <project>`
+`$ khaos flox <project>`
 
 ## License
 

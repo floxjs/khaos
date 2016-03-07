@@ -10,12 +10,12 @@
 
 ## Installation
 
-    $ npm install @koax/{{basename}}
+    $ npm install @flox/{{basename}}
 
 ## Usage
 
 ```js
-import {{camelcase basename}} from '@koax/{{basename}}'
+import {{camelcase basename}} from '@flox/{{basename}}'
 
 ```
 
@@ -31,11 +31,11 @@ import {{camelcase basename}} from '@koax/{{basename}}'
 
 MIT
 
-[travis-image]: https://img.shields.io/travis/koaxjs/{{basename}}.svg?style=flat-square
-[travis-url]: https://travis-ci.org/koaxjs/{{basename}}
-[git-image]: https://img.shields.io/github/tag/koaxjs/{{basename}}.svg?sytle=flat-square
-[git-url]: https://github.com/koaxjs/{{basename}}
+[travis-image]: https://img.shields.io/travis/floxjs/{{basename}}.svg?style=flat-square
+[travis-url]: https://travis-ci.org/floxjs/{{basename}}
+[git-image]: https://img.shields.io/github/tag/floxjs/{{basename}}.svg?sytle=flat-square
+[git-url]: https://github.com/floxjs/{{basename}}
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@koax/{{basename}}.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@koax/{{basename}}
+[npm-image]: https://img.shields.io/npm/v/@flox/{{basename}}.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@flox/{{basename}}
